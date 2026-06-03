@@ -1,5 +1,5 @@
 # revert-yt-video-card-UI
-Reverts YouTube's new video card UI
+Reverts YouTube's new video card UI, should work everywhere on the site - make an issue if you find anything weird!
 
 <sub><sup>**(You will need a userscript manager such as tampermonkey or violentmonkey)**</sup></sub>
 
