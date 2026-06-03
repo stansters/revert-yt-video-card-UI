@@ -1,10 +1,13 @@
 // ==UserScript==
 // @name         YouTube UI Revert
-// @namespace    http://tampermonkey.net/
-// @version      1.5
+// @namespace    revert-yt-video-card-UI
+// @version      1.6
 // @description  Reverts YouTube's new video card UI changes: restores vertical dots, bullet delimiter, "X views" format, and channel name on its own row
 // @author       stan
 // @match        https://www.youtube.com/*
+// @updateURL    https://github.com/stansters/revert-yt-video-card-UI/raw/refs/heads/main/youtube-ui-revert.user.js
+// @downloadURL  https://github.com/stansters/revert-yt-video-card-UI/raw/refs/heads/main/youtube-ui-revert.user.js
+// @supportURL   https://github.com/stansters/revert-yt-video-card-UI/issues
 // @grant        none
 // @run-at       document-idle
 // ==/UserScript==
