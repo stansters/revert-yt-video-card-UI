@@ -1,2 +1,7 @@
 # revert-yt-video-card-UI
-Reverts YouTube's new video card UI changes: restores vertical dots, bullet delimiter, "X views" format, and channel name on its own row
+Reverts YouTube's new video card UI 
+## Changes: 
+- Restores vertical dots
+- Restores bullet delimiter
+- "X views" format
+- Channel name on its own row
