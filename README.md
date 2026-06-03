@@ -1,5 +1,7 @@
 # revert-yt-video-card-UI
-Reverts YouTube's new video card UI 
+Reverts YouTube's new video card UI
+![Static Badge](https://img.shields.io/badge/Install-8A2BE2?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fstansters%2Frevert-yt-video-card-UI%2Fraw%2Frefs%2Fheads%2Fmain%2Fyoutube-ui-revert.user.js)
+<sub><sup>**You will need a userscript manager such as tampermonkey or violentmonkey**</sup></sub>
 ## Changes: 
 - Restores vertical dots
 - Restores bullet delimiter
